@@ -1,0 +1,83 @@
+'n' is pressed at  : 2024-06-19 10:09:07,580
+Unhandled exception in listener callback : 2024-06-19 10:09:07,718
+Traceback (most recent call last):
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\_util\__init__.py", line 229, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\keyboard\_win32.py", line 319, in _process
+    self.on_release(key)
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\_util\__init__.py", line 145, in inner
+    if f(*args) is False:
+  File "f:\Prodigy\task_4.py", line 16, in while_release
+    if key == key.esc:
+AttributeError: 'KeyCode' object has no attribute 'esc'
+'i' is pressed at  : 2024-06-19 10:10:49,509
+Unhandled exception in listener callback : 2024-06-19 10:10:49,618
+Traceback (most recent call last):
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\_util\__init__.py", line 229, in inner
+    return f(self, *args, **kwargs)
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\keyboard\_win32.py", line 319, in _process
+    self.on_release(key)
+  File "C:\Users\Harsh\AppData\Local\Programs\Python\Python310\lib\site-packages\pynput\_util\__init__.py", line 145, in inner
+    if f(*args) is False:
+  File "f:\Prodigy\task_4.py", line 16, in while_release
+    if key == key.esc:
+AttributeError: 'KeyCode' object has no attribute 'esc'
+'h' is pressed at  : 2024-06-19 10:12:19,444
+'e' is pressed at  : 2024-06-19 10:12:19,694
+'l' is pressed at  : 2024-06-19 10:12:19,944
+'l' is pressed at  : 2024-06-19 10:12:20,139
+'o' is pressed at  : 2024-06-19 10:12:20,330
+Key.space is pressed at  : 2024-06-19 10:12:20,643
+'h' is pressed at  : 2024-06-19 10:12:20,963
+'a' is pressed at  : 2024-06-19 10:12:21,174
+'r' is pressed at  : 2024-06-19 10:12:21,339
+'s' is pressed at  : 2024-06-19 10:12:21,530
+'h' is pressed at  : 2024-06-19 10:12:21,708
+'e' is pressed at  : 2024-06-19 10:14:15,833
+'d' is pressed at  : 2024-06-19 10:14:16,033
+'g' is pressed at  : 2024-06-19 10:14:16,348
+'e' is pressed at  : 2024-06-19 10:14:16,614
+'w' is pressed at  : 2024-06-19 10:14:33,384
+'k' is pressed at  : 2024-06-19 10:14:42,997
+'a' is pressed at  : 2024-06-19 10:14:43,197
+'i' is pressed at  : 2024-06-19 10:14:43,329
+Key.space is pressed at  : 2024-06-19 10:14:43,609
+'n' is pressed at  : 2024-06-19 10:14:43,826
+'a' is pressed at  : 2024-06-19 10:14:44,010
+'i' is pressed at  : 2024-06-19 10:14:44,142
+Key.enter is pressed at  : 2024-06-19 10:14:44,740
+Key.alt_l is pressed at  : 2024-06-19 10:14:47,855
+Key.tab is pressed at  : 2024-06-19 10:14:48,006
+Key.esc is pressed at  : 2024-06-19 10:14:59,113
+Key.end is pressed at  : 2024-06-19 10:23:38,082
+'r' is pressed at  : 2024-06-19 10:23:39,188
+'e' is pressed at  : 2024-06-19 10:23:39,386
+'c' is pressed at  : 2024-06-19 10:23:39,654
+'o' is pressed at  : 2024-06-19 10:23:40,084
+'r' is pressed at  : 2024-06-19 10:23:40,481
+'d' is pressed at  : 2024-06-19 10:23:40,723
+'i' is pressed at  : 2024-06-19 10:23:40,884
+'n' is pressed at  : 2024-06-19 10:23:41,185
+'g' is pressed at  : 2024-06-19 10:23:41,411
+Key.space is pressed at  : 2024-06-19 10:23:41,517
+'i' is pressed at  : 2024-06-19 10:23:42,385
+'s' is pressed at  : 2024-06-19 10:23:42,600
+Key.space is pressed at  : 2024-06-19 10:23:42,736
+'s' is pressed at  : 2024-06-19 10:23:43,006
+'t' is pressed at  : 2024-06-19 10:23:43,280
+'a' is pressed at  : 2024-06-19 10:23:43,514
+'r' is pressed at  : 2024-06-19 10:23:43,707
+'t' is pressed at  : 2024-06-19 10:23:43,916
+Key.esc is pressed at  : 2024-06-19 10:24:05,076
+'t' is pressed at  : 2024-06-19 10:26:08,979
+'y' is pressed at  : 2024-06-19 10:26:09,114
+'p' is pressed at  : 2024-06-19 10:26:09,797
+'e' is pressed at  : 2024-06-19 10:26:09,947
+Key.esc is pressed at  : 2024-06-19 10:26:25,139
+'d' is pressed at  : 2024-06-19 10:26:38,357
+'s' is pressed at  : 2024-06-19 10:26:38,383
+'f' is pressed at  : 2024-06-19 10:26:38,557
+'s' is pressed at  : 2024-06-19 10:26:38,755
+'f' is pressed at  : 2024-06-19 10:26:38,923
+Key.enter is pressed at  : 2024-06-19 10:26:44,385
+Key.esc is pressed at  : 2024-06-19 10:26:46,482
